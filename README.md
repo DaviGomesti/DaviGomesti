@@ -1,14 +1,16 @@
 # 👋 Olá, eu sou o Davi Gomes  
 
 💻 **Analista de Dados | Engenheiro de Dados | Arquiteto de Dados**  
-Apaixonado por dados, tecnologia e aprendizado contínuo.  
+Olá, meu nome é Davi. Sou apaixonado pela área de dados e pelo aprendizado contínuo. Atualmente, atuo como engenheiro e arquiteto de dados em um projeto do Governo do RN.  
 
 ---
 
 ## 🚀 Tecnologias & Ferramentas
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,docker,git,linux,mysql,postgresql,mongodb,oracle,azure,aws,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,docker,git,linux,mysql,postgresql,mongodb,anaconda,azure,aws,vscode" />
+---
 </p>
+
 
 ---
 
