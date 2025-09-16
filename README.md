@@ -37,3 +37,4 @@ Olá, meu nome é Davi. Sou apaixonado pela área de dados e pelo aprendizado co
 
 
 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=DaviGomesti&theme=radical" height="150"/>
